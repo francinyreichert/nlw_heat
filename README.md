@@ -16,7 +16,7 @@
 <p>git clone <a href="https://github.com/francinyreichert/node_heat.git">https://github.com/francinyreichert/node_heat.git</a></p>
 
 <strong>Entre no diretório</strong><br>
- <code>cd proffy </code>
+ <code>cd node_heat</code>
 
 <strong>Baixe as dependências</strong><br>
  <code>yarn install </code>
