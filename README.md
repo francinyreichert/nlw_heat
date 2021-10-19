@@ -5,10 +5,10 @@
 <h2> 📖 Sobre</h2> 
   <p>Projeto desenvolvido durante a <a href="https://nextlevelweek.com/inscricao/7"><strong>Next Level Week #7 - NLW Heat</strong></a> da <a href="https://github.com/Rocketseat"><strong>@Rocketseat</strong></a>, usando as tecnologias:</p>
   <ul>
-    <li> Node.js </li>
-    <li> React </li>
     <li> TypeScript </li>
-    <li> Prisma </li>
+    <li> Node.js </li>
+    <li> Prisma ORM </li>
+    <li> Socket.IO </li>
   </ul>
   
 <h2>⌨ Como executar </h2>
