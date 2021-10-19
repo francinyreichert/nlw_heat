@@ -6,6 +6,7 @@
   <p>Projeto desenvolvido durante a <a href="https://nextlevelweek.com/inscricao/7"><strong>Next Level Week #7 - NLW Heat</strong></a> da <a href="https://github.com/Rocketseat"><strong>@Rocketseat</strong></a>, usando as tecnologias:</p>
   <ul>
     <li> TypeScript </li>
+    <li> ReactJS </li>
     <li> Node.js </li>
     <li> Prisma ORM </li>
     <li> Socket.IO </li>
